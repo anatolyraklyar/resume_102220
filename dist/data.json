@@ -51,7 +51,7 @@
       "endDate": "2019-03-01",
       "summary": "Built Azure-based data warehouse to improve healthcare delivery",
       "highlights": [
-        "Managed ETL, analytics and report distribution related to dozens of agencies and providers and over one hundred thousand patients",
+        "Managed ETL, analytics and reports distribution related to dozens of agencies and providers and over one hundred thousand patients",
         "Migrated infrastructure from on-premise to Azure cloud",
         "Increased number of data sources, improved processing speed and data availability",
         "Oversaw teams of consultants supporting cloud and workstation infrastructure"
